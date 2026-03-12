@@ -20,17 +20,6 @@ Visualization: Matplotlib, Seaborn
 Web Framework: Streamlit
 Deployment: Pickle (for model serialization)
 
-**Project Structure**
-
-├── src/                    # Modular source code
-│   ├── preprocessing.py    # Data cleaning and transformation
-│   ├── model_training.py   # Training logic for Random Forest
-│   ├── prediction.py       # Inference engine
-│   └── visualization.py    # Dashboard plotting functions
-├── EDA_and_Modelling.ipynb # Experimentation and feature engineering
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Project dependencies
-└── README.md
 
 **Installation & Usage**
 Clone the repository:
